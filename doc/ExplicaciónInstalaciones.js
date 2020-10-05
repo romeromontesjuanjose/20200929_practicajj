@@ -12,10 +12,10 @@ mongo, esta pestaña puede ser rellena de distintas opciones, pero yo las dejare
 base de datos para crearla. Con esto finaliza la instalación y podemos cerrar Mongo.
 
 Ahora debemos añadir Mongo a la variable path del sistema para ello debemos llegar a la carpeta donde esta Mongo, acceder a bin y copiar el directorio. El directorio por defecto 
-es “C:\Program Files\MongoDB\Server\ 4.2\bin. Tras esto hacemos click derecho a este equipo y accedemos a propiedades, despues entramos en configuracion avanzada lo cual nos abrira 
-una ventana emergente donde debemos clickar varables de entorno allí accedemos a path y le damos a editar y a nuevo allí pegamos una ves hagamos esto le damos a aceptar e iniciamos 
-una consola de comandos escribiendo cmd en el buscador de windows 10. En esta consola de comandos debemos escribir mongo y si la consola de comandos no nos da error habremos instalado 
-el programa correctamente.
+es “C:\Program Files\MongoDB\Server\ 4.2\bin. Tras esto hacemos click derecho a este equipo y accedemos a propiedades, despues entramos en configuracion avanzada 
+lo cual nos abrira una ventana emergente donde debemos clickar varables de entorno allí accedemos a path y le damos a editar y a nuevo allí pegamos una ves hagamos esto le damos
+a aceptar e iniciamos una consola de comandos escribiendo cmd en el buscador de windows 10. En esta consola de comandos debemos escribir mongo y si la consola de comandos no 
+nos da error habremos instalado el programa correctamente.
 
 Intalación Github:
 
