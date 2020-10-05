@@ -1,1 +1,1 @@
-db.coleccion01.insertOne( {c1:"árbol"} )
+db.coleccion01.insertOne( {c1:"árbol"} ) /* En este ejercicio simple lo unico que hacemos es crear un archivo en el que esta la información "árbol" */
